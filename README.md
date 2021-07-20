@@ -5,3 +5,6 @@ Built using 8051(AT89S52) microcontroller which is programmed in assembly langua
 1. 8051(AT89S52) MICROCONTROLLER DEVELOPMENT BOARD
 2. GSM MODULE (Sim 900a)
 3. Keil uVision Software
+# Screenshots
+![image](https://user-images.githubusercontent.com/79404399/126319743-880c9e85-1a48-4119-8546-3ea2a93e21c5.png)
+![image](https://user-images.githubusercontent.com/79404399/126319899-30b38632-b572-405e-925d-a618fe5c1751.png)
