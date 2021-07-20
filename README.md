@@ -7,5 +7,4 @@ Built using 8051(AT89S52) microcontroller which is programmed in assembly langua
 3. Keil uVision Software
 # Screenshots
 ![image](https://user-images.githubusercontent.com/79404399/126319743-880c9e85-1a48-4119-8546-3ea2a93e21c5.png)
-![image](https://user-images.githubusercontent.com/79404399/126320024-d6b161e5-8a2d-4e47-b3c9-37da07775700.png)
-
+![image](https://user-images.githubusercontent.com/79404399/126320106-5945c73d-f5b8-4ee4-be79-d706b91b9707.png)
